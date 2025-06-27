@@ -19,6 +19,11 @@ This web-based calculator lets users do basic arithmetic operations like additio
 - **CSS3** – for the design and layout
 - **JavaScript (ES6)** – for the logic and interactivity
 
+## Screenshot
+
+![image](https://github.com/user-attachments/assets/0a6888b7-4c58-4490-90ab-3a67a64dbfee)
+
+
 
 ##  License
 
